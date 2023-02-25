@@ -18,7 +18,7 @@ A personal note taking app that allows a user to make notes that will persist ac
 
 ## Installation
 
-`npm i`
+Run `npm i` from the root of the project to install the Express and UUID dependencies.
 
 ## Usage
 
